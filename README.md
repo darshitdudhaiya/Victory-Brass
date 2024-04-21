@@ -12,7 +12,7 @@ This repository contains the complete source code for the Victory Brass website,
 
 ### URL
 
-- [Victory Brass](https://victorybrass.in/))
+- [Victory Brass](https://victorybrass.in/)
 
 ### Author
 
